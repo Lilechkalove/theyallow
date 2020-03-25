@@ -1,1 +1,1 @@
-[theyallow](https://lisndk.github.io/theyallow/theyallow)
+[theyalow](https://lisndk.github.io/theyalow/theyalow)
